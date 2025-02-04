@@ -3,6 +3,7 @@
 
 const char kWindowTitle[] = "LE2D_12_チバ_ダイチ";
 
+
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
